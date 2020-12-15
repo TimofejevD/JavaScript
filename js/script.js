@@ -1,3 +1,3 @@
 "use strict";
 
-const result = confirm("Hellooo"); 
+const result = confirm("Hello1"); 
